@@ -1,4 +1,5 @@
 // Get all the elements in the document using querySelectorAll, then loop through them, getting each one's class, breaking it apart on spaces, and adding new ones to an allClasses array:
+// Fount : https://stackoverflow.com/questions/38024631/finding-all-class-names-used-in-html-dom
 
 var allClasses = [];
 
